@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Permissive Schema",
+  "description": "A schema that accepts any JSON value.",
+  "type": ["object", "array", "string", "number", "boolean", "null"]
+}
